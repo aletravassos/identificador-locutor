@@ -1,0 +1,6 @@
+streamlit
+librosa
+scikit-learn
+matplotlib
+numpy
+fpdf
